@@ -10,4 +10,4 @@
 
 - See below image of what the app looks like on an iPhone 8 and iPhone 11
 
-> [![javascript dark](/screenshots/todo_app.png)
+> [javascript dark](/screenshots/todo_app.png)
